@@ -33,7 +33,7 @@ Maven artifacts can be downloaded from the Open Source Software Repository Hosti
 
 We publish two versions of the Java SDK: 
 
-* **lusid-sdk-java (this one) - supports `Production` and `Early Access` API endpoints**
+* lusid-sdk-java (this one) - supports `Production` and `Early Access` API endpoints
 * [lusid-sdk-java-preview](https://github.com/finbourne/lusid-sdk-java-preview) - supports `Production`, `Early Access`, `Beta` and `Experimental` API endpoints.
 
 For more details on API endpoint categories, see [What is the LUSID feature release lifecycle?](https://support.lusid.com/knowledgebase/article/KA-01786/en-us).
